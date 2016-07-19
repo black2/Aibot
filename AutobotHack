@@ -20,3 +20,9 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+mov 306
+slf;
+console.windows count (24, gg )l 
+
+exit;
