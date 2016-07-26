@@ -109,7 +109,7 @@ mov arx,42[time stamp = 4hr]
 mov erx, 53[time stamp = 7hr]
 
 _________________________________________________________________
-\\functional bypass security
+
 
 function view_perms($mode)
 {
