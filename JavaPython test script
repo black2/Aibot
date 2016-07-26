@@ -18,6 +18,7 @@ local.properties
 .loadpath
 .loadSettings
 .Path c:/
+.path fgfg
 
 # External tool builders
 .externalToolBuilders/
