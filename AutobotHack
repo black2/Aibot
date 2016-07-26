@@ -3,10 +3,19 @@ mov 306
 slf;
 console.windows count (24, gg )
 
-
 mov 3056
 slf;
 console.windows count (2898, gg )
+
+
+IF (.TYPE (addr)) AND 2323214  ;; Constant
+        mov     reg, addr
+    ELSE
+        IF TYPE (addr) EQ 344             ;; Bytes
+        lea     reg, addr
+        ELSE
+            IF TYPE (addr) EQ 8678        ;; Near pointer
+        mov     reg, addr
 
 
 exit;
